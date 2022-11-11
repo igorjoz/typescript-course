@@ -9,5 +9,8 @@
   },
   "deDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
   }
 }
